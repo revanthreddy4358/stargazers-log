@@ -1,0 +1,30 @@
+[
+  {
+    "name": "octocat/hello-world",
+    "description": "My first repository for learning GitHub workflows.",
+    "language": "HTML",
+    "stargazers_count": 42,
+    "updated_at": "2026-09-12T21:30:00Z"
+  },
+  {
+    "name": "github/gitignore",
+    "description": "A collection of useful .gitignore templates.",
+    "language": "GitIgnore",
+    "stargazers_count": 1800,
+    "updated_at": "2026-08-22T18:50:00Z"
+  },
+  {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "description": "A community-driven learning platform for web development.",
+    "language": "JavaScript",
+    "stargazers_count": 400000,
+    "updated_at": "2026-09-10T12:15:00Z"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "The Visual Studio Code source code and extension platform.",
+    "language": "TypeScript",
+    "stargazers_count": 170000,
+    "updated_at": "2026-09-13T08:05:00Z"
+  }
+]
